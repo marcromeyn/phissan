@@ -718,7 +718,7 @@
 	 
 	// 06.2 Countdown
 	//================================================================================
-	var theday = new Date(2024, 8, 21, 15, 0, 0, 0);	
+	var theday = new Date(2026, 6, 4, 15, 0, 0, 0);	
 	$('#countdown').countdown({until: theday, format: 'WDHM'});
 	
 		 
